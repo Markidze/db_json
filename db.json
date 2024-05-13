@@ -1,0 +1,29 @@
+{
+  "services": [
+    {
+      "image": "https://99designs-blog.imgix.net/blog/wp-content/uploads/2022/01/104228210.jpg",
+      "title": "Web Design",
+      "description": "Create modern and responsive websites tailored to your needs."
+    },
+    {
+      "image": "https://cdn.logojoy.com/wp-content/uploads/20231122153748/what-is-graphic-design-header.jpg",
+      "title": "Graphic Design",
+      "description": "Design eye-catching logos, brochures, and marketing materials."
+    },
+    {
+      "image": "https://www.searchenginejournal.com/wp-content/uploads/2021/08/the-ultimate-guide-to-digital-marketing-61726311bf393-sej.png",
+      "title": "Digital Marketing",
+      "description": "Boost your online presence with SEO, PPC, and social media strategies."
+    },
+    {
+      "image": "https://d2ms8rpfqc4h24.cloudfront.net/mobile_application_development_ad3f711b7d.jpg",
+      "title": "Mobile App Development",
+      "description": "Build native and cross-platform mobile applications for iOS and Android."
+    },
+    {
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*GYpBWqcVrPjqL0n7c_gi3w.jpeg",
+      "title": "Content Writing",
+      "description": "Craft engaging and SEO-friendly content for websites and blogs."
+    }
+  ]
+}
